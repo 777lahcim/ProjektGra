@@ -1,0 +1,2 @@
+C:\CPP\Projekt_GRA\x64\Debug\Projekt_GRA.exe
+D:\CPP\Projekt_GRA\x64\Debug\Projekt_GRA.exe
